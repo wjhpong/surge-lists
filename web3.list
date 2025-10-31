@@ -105,14 +105,6 @@ DOMAIN-SUFFIX,defipulse.com
 DOMAIN-SUFFIX,tokenterminal.com
 DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,defiprime.com
-# ---- Analytics / Tooling ----
-# =========================================
-# 🪙 Binance / 币安 全域规则
-# Version: 2025-10-31
-# 适配 Surge / Shadowrocket / Clash
-# =========================================
-
-# ---- 主站与域名 ----
 DOMAIN-SUFFIX,binance.com
 DOMAIN,www.binance.com
 DOMAIN-SUFFIX,binance.net
@@ -127,8 +119,6 @@ DOMAIN-SUFFIX,binance.kr
 DOMAIN-SUFFIX,binance.vip
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.japan
-
-# ---- API & WebSocket ----
 DOMAIN,api.binance.com
 DOMAIN,api1.binance.com
 DOMAIN,api2.binance.com
