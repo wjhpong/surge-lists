@@ -7,8 +7,7 @@
 # DOMAIN-SUFFIX,debank.com
 # DOMAIN,assets.debank.com
 # DOMAIN-KEYWORD,etherscan
-# =========================================
-
+# ========================================
 # ---- Web3 Core Services ----
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,cloud.debank.com
@@ -22,7 +21,6 @@ DOMAIN-SUFFIX,alchemyapi.io
 DOMAIN-SUFFIX,quicknode.com
 DOMAIN-SUFFIX,pokt.network
 DOMAIN-SUFFIX,blockchair.com
-
 # ---- Wallets / DEX ----
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,opensea.io
@@ -40,7 +38,6 @@ DOMAIN-SUFFIX,spark.fi
 DOMAIN-SUFFIX,blastapi.io
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,bouncebit.io
-
 # ---- Layer1 / Layer2 Chains ----
 DOMAIN-SUFFIX,ethereum.org
 DOMAIN-SUFFIX,arbitrum.io
@@ -57,7 +54,57 @@ DOMAIN-SUFFIX,toncenter.com
 DOMAIN-SUFFIX,tonhub.com
 DOMAIN-SUFFIX,stride.zone
 DOMAIN-SUFFIX,milkyway.zone
-
+# ---- Additional Web3 domains (2025-10 update) ----
+DOMAIN-SUFFIX,stability.farm
+DOMAIN-SUFFIX,stargate-api.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,balancer.fi
+DOMAIN-SUFFIX,mirror.xyz
+DOMAIN-SUFFIX,blastapi.io
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,gains.trade
+DOMAIN-SUFFIX,stargate.finance
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,milkyway.zone
+DOMAIN-SUFFIX,bouncebit.io
+DOMAIN-SUFFIX,ethena.fi
+DOMAIN-SUFFIX,spark.fi
+DOMAIN-SUFFIX,thala.fi
+DOMAIN-SUFFIX,asterdex.com
+DOMAIN-SUFFIX,noble.xyz
+DOMAIN-SUFFIX,berachain.com
+DOMAIN-SUFFIX,aptoslabs.com
+DOMAIN-SUFFIX,aptosnames.com
+DOMAIN-SUFFIX,sailor.finance
+DOMAIN-SUFFIX,sui.io
+DOMAIN-SUFFIX,amnis.finance
+DOMAIN-SUFFIX,kamino.finance
+DOMAIN-SUFFIX,rabby.io
+DOMAIN-SUFFIX,tronlink.org
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,merkl.xyz
+DOMAIN-SUFFIX,cellana.finance
+DOMAIN-SUFFIX,bedrock.technology
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,venus.io
+DOMAIN-SUFFIX,naviprotocol.io
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,osmosis.zone
+DOMAIN-SUFFIX,stakestone.io
+DOMAIN-SUFFIX,haedal.xyz
+DOMAIN-SUFFIX,celestia.org
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,defibit.io
+DOMAIN-SUFFIX,blastapi.io
+DOMAIN-SUFFIX,tonhub.com
+DOMAIN-SUFFIX,toncenter.com
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,defipulse.com
+DOMAIN-SUFFIX,tokenterminal.com
+DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,defiprime.com
 # ---- Analytics / Tooling ----
 DOMAIN-SUFFIX,dune.com
 DOMAIN-SUFFIX,defipulse.com
@@ -65,7 +112,6 @@ DOMAIN-SUFFIX,tokenterminal.com
 DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,defiprime.com
-
 # ---- Others ----
 DOMAIN-SUFFIX,stakestone.io
 DOMAIN-SUFFIX,cellana.finance
