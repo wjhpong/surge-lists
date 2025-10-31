@@ -1,0 +1,79 @@
+# =========================================
+# 🚀 Lavas Labs - Web3 Project Domain List
+# For Surge / QuantumultX / Clash
+# =========================================
+# 每行一条规则，支持 DOMAIN-SUFFIX / DOMAIN / DOMAIN-KEYWORD
+# 例如：
+# DOMAIN-SUFFIX,debank.com
+# DOMAIN,assets.debank.com
+# DOMAIN-KEYWORD,etherscan
+# =========================================
+
+# ---- Web3 Core Services ----
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,cloud.debank.com
+DOMAIN-SUFFIX,docs.cloud.debank.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,alchemyapi.io
+DOMAIN-SUFFIX,quicknode.com
+DOMAIN-SUFFIX,pokt.network
+DOMAIN-SUFFIX,blockchair.com
+
+# ---- Wallets / DEX ----
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,balancer.fi
+DOMAIN-SUFFIX,curve.fi
+DOMAIN-SUFFIX,stargate.finance
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,ethena.fi
+DOMAIN-SUFFIX,venus.io
+DOMAIN-SUFFIX,pendle.finance
+DOMAIN-SUFFIX,haedal.xyz
+DOMAIN-SUFFIX,spark.fi
+DOMAIN-SUFFIX,blastapi.io
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,bouncebit.io
+
+# ---- Layer1 / Layer2 Chains ----
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,scroll.io
+DOMAIN-SUFFIX,polygon.technology
+DOMAIN-SUFFIX,celestia.org
+DOMAIN-SUFFIX,osmosis.zone
+DOMAIN-SUFFIX,aptoslabs.com
+DOMAIN-SUFFIX,sui.io
+DOMAIN-SUFFIX,berachain.com
+DOMAIN-SUFFIX,noble.xyz
+DOMAIN-SUFFIX,toncenter.com
+DOMAIN-SUFFIX,tonhub.com
+DOMAIN-SUFFIX,stride.zone
+DOMAIN-SUFFIX,milkyway.zone
+
+# ---- Analytics / Tooling ----
+DOMAIN-SUFFIX,dune.com
+DOMAIN-SUFFIX,defipulse.com
+DOMAIN-SUFFIX,tokenterminal.com
+DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,defiprime.com
+
+# ---- Others ----
+DOMAIN-SUFFIX,stakestone.io
+DOMAIN-SUFFIX,cellana.finance
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,mirror.xyz
+DOMAIN-SUFFIX,bedrock.technology
+DOMAIN-SUFFIX,naviprotocol.io
+DOMAIN-SUFFIX,merkl.xyz
+DOMAIN-SUFFIX,stability.farm
+DOMAIN-SUFFIX,gains.trade
+DOMAIN-SUFFIX,defibit.io
