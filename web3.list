@@ -106,6 +106,96 @@ DOMAIN-SUFFIX,tokenterminal.com
 DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,defiprime.com
 # ---- Analytics / Tooling ----
+# =========================================
+# 🪙 Binance / 币安 全域规则
+# Version: 2025-10-31
+# 适配 Surge / Shadowrocket / Clash
+# =========================================
+
+# ---- 主站与域名 ----
+DOMAIN-SUFFIX,binance.com
+DOMAIN,www.binance.com
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.sg
+DOMAIN-SUFFIX,binance.id
+DOMAIN-SUFFIX,binance.tr
+DOMAIN-SUFFIX,binance.kr
+DOMAIN-SUFFIX,binance.vip
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.japan
+
+# ---- API & WebSocket ----
+DOMAIN,api.binance.com
+DOMAIN,api1.binance.com
+DOMAIN,api2.binance.com
+DOMAIN,api.binance.net
+DOMAIN,api.binance.us
+DOMAIN,api.binance.me
+DOMAIN,api.binancezh.com
+DOMAIN,api.binancezh.pro
+DOMAIN,api.binancezh.top
+DOMAIN,stream.binance.com
+DOMAIN,ws-api.binance.com
+DOMAIN,ws-fapi.binance.com
+DOMAIN,ws-spot.binance.com
+DOMAIN,wss-fapi.binance.com
+DOMAIN,wss-spot.binance.com
+DOMAIN,wss.binance.com
+DOMAIN,wss.binancezh.pro
+DOMAIN,wss-testnet.binance.vision
+
+# ---- 静态 CDN / 图片 ----
+DOMAIN-SUFFIX,static.binance.com
+DOMAIN-SUFFIX,cdn.binance.com
+DOMAIN-SUFFIX,img.binance.com
+DOMAIN-SUFFIX,images.binance.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,binance-cdn.com
+DOMAIN-SUFFIX,cloudfront.net
+
+# ---- 测试网 & 区块浏览器 ----
+DOMAIN-SUFFIX,testnet.binance.vision
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,blockchain.binance.com
+
+# ---- 钱包服务 ----
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,safepal.io
+DOMAIN-SUFFIX,binancepay.com
+
+# ---- 附属产品 ----
+DOMAIN-SUFFIX,launchpad.binance.com
+DOMAIN-SUFFIX,labs.binance.com
+DOMAIN-SUFFIX,research.binance.com
+DOMAIN-SUFFIX,academy.binance.com
+DOMAIN-SUFFIX,nft.binance.com
+DOMAIN-SUFFIX,feed.binance.com
+DOMAIN-SUFFIX,earn.binance.com
+DOMAIN-SUFFIX,support.binance.com
+DOMAIN-SUFFIX,helpdesk.binance.com
+DOMAIN-SUFFIX,blog.binance.com
+DOMAIN-SUFFIX,download.binance.com
+
+# ---- 本地化镜像 / 下载地址 ----
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,bnappzh.com
+
+# ---- 关键字匹配 ----
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,bnbchain
+
 DOMAIN-SUFFIX,dune.com
 DOMAIN-SUFFIX,defipulse.com
 DOMAIN-SUFFIX,tokenterminal.com
