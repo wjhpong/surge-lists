@@ -88,6 +88,8 @@ DOMAIN-SUFFIX,cellana.finance
 DOMAIN-SUFFIX,bedrock.technology
 DOMAIN-SUFFIX,defillama.com
 DOMAIN-SUFFIX,debank.com
+# Jupiter Aggregator
+DOMAIN-SUFFIX,jup.ag
 DOMAIN-SUFFIX,venus.io
 DOMAIN-SUFFIX,naviprotocol.io
 DOMAIN-SUFFIX,aave.com
