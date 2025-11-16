@@ -62,6 +62,9 @@ DOMAIN-SUFFIX,balancer.fi
 DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,blastapi.io
 DOMAIN-SUFFIX,pancakeswap.finance
+# -------- Web3 Utilities --------
+DOMAIN,asksurf.ai
+DOMAIN-SUFFIX,asksurf.ai
 DOMAIN-SUFFIX,gains.trade
 DOMAIN-SUFFIX,stargate.finance
 DOMAIN-SUFFIX,hyperliquid.xyz
